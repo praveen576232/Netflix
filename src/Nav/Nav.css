@@ -1,0 +1,23 @@
+.netflix_logo {
+    height: 100px;
+    object-fit: contain;
+    margin-top: -20px;
+    margin-left:10px;
+}
+.nav{
+    display: flex;
+    position: fixed;
+    top:0;
+    width: 100%;
+    justify-content: space-between;
+    
+}
+.netflix_smilee_logo{
+    height:40px;
+    padding:10px;
+
+}
+.nav_black{
+    background-color: #111;
+    transition: all 0.5s;
+}
